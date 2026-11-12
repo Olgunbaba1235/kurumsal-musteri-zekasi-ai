@@ -1,0 +1,2001 @@
+CustomerID,Recency,Frequency,Monetary,SupportTickets,Churn,Segment
+MST-10000,103,1,1193.74,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10001,349,35,29723.63,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10002,271,6,3719.57,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10003,107,37,24118.38,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10004,72,5,759.14,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10005,189,33,18306.11,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10006,21,49,50113.25,4,0,🏆 Şampiyonlar (Champions)
+MST-10007,103,14,20512.27,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10008,122,12,15522.39,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10009,215,42,7637.83,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10010,331,20,27261.14,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10011,88,24,28975.63,6,1,💎 Sadık Müşteriler (Loyal)
+MST-10012,100,43,51750.83,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10013,360,34,26122.01,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10014,152,25,17182.68,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10015,131,29,16209.15,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10016,150,39,9308.83,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10017,309,31,14201.65,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10018,258,47,22697.0,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10019,344,43,34550.67,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10020,294,23,26658.15,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10021,192,44,34744.3,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10022,277,38,8667.42,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10023,161,20,28860.32,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10024,314,23,32721.59,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10025,22,45,54450.26,8,0,🏆 Şampiyonlar (Champions)
+MST-10026,253,16,23812.68,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10027,236,42,37172.15,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10028,345,8,11597.9,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10029,49,21,5293.4,5,0,🏆 Şampiyonlar (Champions)
+MST-10030,59,1,643.67,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10031,170,8,3634.12,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10032,188,29,12016.87,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10033,271,32,10882.69,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10034,190,38,37629.82,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10035,175,5,6023.92,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10036,51,47,43743.03,0,0,🏆 Şampiyonlar (Champions)
+MST-10037,364,22,7664.79,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10038,55,47,58515.8,0,0,🏆 Şampiyonlar (Champions)
+MST-10039,244,34,34290.32,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10040,320,1,674.02,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10041,131,26,27561.97,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10042,307,43,21537.48,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10043,135,10,6160.09,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10044,21,30,41658.18,9,0,🏆 Şampiyonlar (Champions)
+MST-10045,329,18,9759.26,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10046,167,17,13336.23,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10047,274,26,35143.95,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10048,89,8,8843.39,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10049,316,47,10996.79,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10050,14,40,13954.36,6,0,🏆 Şampiyonlar (Champions)
+MST-10051,242,49,7868.72,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10052,265,12,12020.93,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10053,346,27,20367.7,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10054,53,8,2650.17,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10055,340,25,36080.28,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10056,92,46,39791.87,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10057,264,4,1906.22,1,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10058,35,33,27251.89,5,0,🏆 Şampiyonlar (Champions)
+MST-10059,206,1,1067.49,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10060,81,19,4805.54,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10061,50,31,16146.35,6,0,🏆 Şampiyonlar (Champions)
+MST-10062,360,16,19830.45,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10063,2,14,10787.67,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10064,54,48,42618.2,1,0,🏆 Şampiyonlar (Champions)
+MST-10065,106,5,3671.51,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10066,260,41,8579.86,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10067,310,26,9717.82,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10068,191,28,21041.47,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10069,218,2,864.8,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10070,44,6,1304.83,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10071,162,9,11600.34,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10072,202,33,48662.13,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10073,270,41,50050.46,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10074,351,25,32565.24,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10075,304,48,22880.12,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10076,271,13,18809.0,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10077,215,9,3742.65,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10078,252,13,18647.59,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10079,190,31,46283.19,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10080,296,41,45543.86,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10081,213,11,16219.98,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10082,208,4,3675.51,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10083,237,34,17012.97,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10084,338,38,28117.89,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10085,53,46,43760.13,3,0,🏆 Şampiyonlar (Champions)
+MST-10086,280,4,994.64,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10087,217,38,37626.21,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10088,252,19,28017.21,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10089,188,6,2439.87,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10090,41,34,41480.12,9,0,🏆 Şampiyonlar (Champions)
+MST-10091,157,18,24761.94,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10092,15,13,18511.96,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10093,301,41,59293.51,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10094,65,23,19641.32,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10095,345,19,27917.95,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10096,327,45,52756.6,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10097,9,11,4050.82,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10098,344,1,793.82,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10099,129,24,26873.93,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10100,136,7,3387.37,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10101,63,25,25370.76,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10102,139,21,22048.12,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10103,81,15,5544.67,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10104,163,1,912.87,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10105,289,12,14300.36,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10106,261,7,5764.56,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10107,231,15,2495.09,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10108,41,21,3406.24,6,0,🏆 Şampiyonlar (Champions)
+MST-10109,28,19,12007.8,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10110,135,29,40610.5,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10111,201,25,11467.84,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10112,328,33,33210.9,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10113,268,49,22040.32,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10114,33,32,18696.14,9,0,🏆 Şampiyonlar (Champions)
+MST-10115,48,49,63447.98,1,0,🏆 Şampiyonlar (Champions)
+MST-10116,62,35,39688.7,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10117,216,44,12266.72,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10118,293,38,27692.41,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10119,99,26,4923.86,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10120,172,11,8791.22,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10121,360,35,36550.01,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10122,214,8,2479.83,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10123,35,46,24839.75,8,0,🏆 Şampiyonlar (Champions)
+MST-10124,227,14,9619.11,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10125,101,10,13913.67,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10126,131,2,2981.79,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10127,257,46,9688.99,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10128,5,9,10596.25,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10129,218,3,1955.48,2,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10130,255,21,14276.19,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10131,359,26,30374.7,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10132,283,8,11119.01,2,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10133,207,48,68820.17,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10134,15,2,1858.23,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10135,346,6,3792.68,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10136,42,28,33969.36,4,0,🏆 Şampiyonlar (Champions)
+MST-10137,179,29,14176.7,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10138,63,26,23699.0,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10139,352,25,15852.02,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10140,231,12,12437.42,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10141,241,5,2372.69,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10142,52,34,13894.12,4,0,🏆 Şampiyonlar (Champions)
+MST-10143,96,48,66701.89,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10144,222,37,10635.09,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10145,231,15,12495.65,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10146,237,44,19718.66,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10147,143,36,7292.0,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10148,171,15,2979.38,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10149,29,43,16621.62,9,0,🏆 Şampiyonlar (Champions)
+MST-10150,36,48,63366.72,0,0,🏆 Şampiyonlar (Champions)
+MST-10151,13,23,12220.97,8,0,🏆 Şampiyonlar (Champions)
+MST-10152,160,6,8598.72,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10153,327,46,43018.74,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10154,187,44,32534.88,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10155,243,43,40124.16,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10156,86,45,38139.43,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10157,284,21,24661.31,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10158,66,23,12221.5,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10159,170,43,26944.58,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10160,45,16,21712.44,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10161,62,47,67102.67,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10162,134,15,20324.3,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10163,284,25,17906.37,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10164,28,36,43325.76,4,0,🏆 Şampiyonlar (Champions)
+MST-10165,108,11,8723.59,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10166,44,15,12325.18,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10167,340,4,1705.27,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10168,286,21,19908.54,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10169,331,13,5216.69,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10170,128,22,13147.47,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10171,348,19,24781.52,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10172,231,34,14604.78,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10173,190,14,3444.89,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10174,225,4,972.64,2,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10175,283,48,68162.84,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10176,121,46,38379.76,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10177,116,27,18973.07,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10178,233,29,36095.9,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10179,259,47,60083.16,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10180,359,28,16756.82,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10181,198,35,38023.45,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10182,137,8,9528.13,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10183,318,16,16540.45,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10184,165,42,14895.44,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10185,225,36,47967.92,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10186,307,30,26333.33,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10187,234,18,9564.08,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10188,172,2,1448.12,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10189,152,49,9835.33,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10190,315,13,4194.06,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10191,160,4,4733.95,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10192,96,26,3900.41,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10193,233,25,17809.1,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10194,180,30,25661.66,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10195,113,11,2461.32,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10196,318,7,10245.59,2,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10197,52,31,14113.35,2,0,🏆 Şampiyonlar (Champions)
+MST-10198,268,44,24669.4,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10199,295,10,5603.22,1,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10200,113,39,17981.44,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10201,101,13,1975.87,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10202,113,31,35173.08,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10203,81,7,10186.69,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10204,187,49,22187.01,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10205,113,42,43894.78,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10206,2,42,48365.52,9,0,🏆 Şampiyonlar (Champions)
+MST-10207,130,36,46633.47,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10208,220,20,14410.99,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10209,54,4,2235.83,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10210,343,7,4124.04,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10211,224,1,1112.04,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10212,225,44,55116.7,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10213,126,45,17783.05,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10214,130,42,27332.36,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10215,53,47,64278.11,6,0,🏆 Şampiyonlar (Champions)
+MST-10216,172,13,16107.47,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10217,218,22,32550.29,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10218,160,21,24532.94,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10219,198,22,14977.9,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10220,247,28,26526.11,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10221,324,9,9381.32,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10222,203,26,6653.8,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10223,184,9,7965.64,2,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10224,123,15,16613.75,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10225,255,10,3758.84,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10226,294,24,28892.47,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10227,280,42,39399.92,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10228,325,8,11484.0,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10229,98,24,4974.48,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10230,198,16,8131.04,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10231,240,49,47142.79,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10232,144,26,14309.25,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10233,97,27,30090.76,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10234,201,37,43462.31,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10235,124,4,1153.59,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10236,187,24,20248.88,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10237,326,19,15903.04,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10238,349,36,23347.05,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10239,259,39,54968.49,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10240,148,10,12671.34,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10241,252,25,27280.82,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10242,346,18,20058.14,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10243,147,19,14693.02,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10244,148,36,50160.33,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10245,352,10,10877.04,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10246,199,33,37426.11,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10247,308,5,6566.41,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10248,128,47,24439.84,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10249,39,49,60737.74,0,0,🏆 Şampiyonlar (Champions)
+MST-10250,338,35,14475.12,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10251,360,44,27113.31,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10252,129,34,20504.52,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10253,267,33,48543.31,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10254,151,21,27432.83,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10255,298,17,18641.85,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10256,99,22,24893.59,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10257,263,48,43622.32,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10258,252,37,52857.18,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10259,144,15,12299.24,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10260,346,35,23229.46,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10261,112,28,10362.74,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10262,60,7,8479.64,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10263,2,32,36527.98,7,0,🏆 Şampiyonlar (Champions)
+MST-10264,304,11,7357.67,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10265,254,10,1840.11,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10266,140,9,11543.82,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10267,37,14,2315.8,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10268,160,13,14299.93,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10269,9,25,36496.18,7,0,🏆 Şampiyonlar (Champions)
+MST-10270,233,2,1481.69,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10271,99,35,16352.49,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10272,147,7,7711.03,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10273,304,21,26315.58,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10274,208,18,15978.26,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10275,131,3,4366.49,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10276,152,42,9229.62,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10277,54,39,32427.49,0,0,🏆 Şampiyonlar (Champions)
+MST-10278,120,41,45916.43,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10279,161,49,64413.67,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10280,116,11,4311.95,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10281,75,39,47970.18,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10282,113,24,21507.71,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10283,104,46,31525.98,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10284,340,19,6228.49,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10285,254,4,5272.6,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10286,227,26,9420.29,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10287,112,38,21592.12,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10288,99,42,22745.58,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10289,153,32,42445.09,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10290,349,39,41267.81,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10291,338,45,55148.39,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10292,194,46,22454.06,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10293,310,36,35768.88,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10294,163,40,36874.28,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10295,208,37,47149.88,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10296,169,33,45316.18,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10297,161,36,5990.82,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10298,68,3,3179.78,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10299,289,9,1979.8,1,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10300,277,8,7127.67,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10301,304,33,17764.04,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10302,135,6,3384.89,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10303,195,41,25686.25,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10304,128,39,38561.05,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10305,33,4,2403.87,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10306,176,13,14808.87,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10307,22,49,34109.49,2,0,🏆 Şampiyonlar (Champions)
+MST-10308,238,2,484.55,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10309,158,5,6040.38,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10310,38,44,23574.04,9,1,🏆 Şampiyonlar (Champions)
+MST-10311,230,27,19824.35,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10312,51,32,34411.18,7,0,🏆 Şampiyonlar (Champions)
+MST-10313,264,21,12575.13,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10314,283,8,1811.13,3,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10315,27,38,24882.15,4,0,🏆 Şampiyonlar (Champions)
+MST-10316,226,8,11400.04,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10317,277,3,3049.02,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10318,286,44,46485.86,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10319,97,3,3010.74,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10320,284,22,9210.07,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10321,317,6,4288.5,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10322,304,2,2327.54,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10323,147,23,6597.63,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10324,4,44,23104.45,9,0,🏆 Şampiyonlar (Champions)
+MST-10325,35,2,1046.06,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10326,192,38,27862.57,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10327,49,17,25049.46,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10328,17,35,8439.5,6,0,🏆 Şampiyonlar (Champions)
+MST-10329,172,34,28908.38,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10330,220,23,9019.27,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10331,158,30,43812.4,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10332,46,8,2423.68,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10333,6,22,15286.95,9,0,🏆 Şampiyonlar (Champions)
+MST-10334,99,44,50430.37,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10335,233,36,39641.35,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10336,37,5,3603.42,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10337,280,13,8031.5,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10338,349,29,19916.52,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10339,302,31,15709.96,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10340,181,47,20078.37,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10341,95,16,12833.66,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10342,99,42,21525.86,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10343,188,30,16142.2,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10344,116,16,16585.93,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10345,191,12,17490.3,0,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10346,253,17,16403.47,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10347,161,16,4062.76,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10348,256,12,3024.45,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10349,323,8,11475.37,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10350,128,20,11026.85,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10351,18,3,822.87,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10352,281,16,15339.36,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10353,223,30,29757.78,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10354,54,45,46146.67,1,0,🏆 Şampiyonlar (Champions)
+MST-10355,58,23,11752.83,9,1,🏆 Şampiyonlar (Champions)
+MST-10356,323,28,4771.18,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10357,360,40,58110.83,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10358,174,5,2443.53,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10359,280,20,21252.71,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10360,114,40,44158.01,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10361,288,44,42834.44,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10362,342,1,572.42,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10363,151,30,15479.4,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10364,127,21,20093.9,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10365,155,20,26384.58,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10366,273,6,8568.54,1,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10367,104,22,6445.4,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10368,299,18,6462.34,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10369,246,8,11403.15,1,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10370,176,39,44628.58,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10371,39,32,42945.33,3,0,🏆 Şampiyonlar (Champions)
+MST-10372,170,33,13977.28,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10373,247,16,15091.85,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10374,26,12,13158.46,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10375,355,38,40589.74,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10376,306,34,23834.16,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10377,13,14,2390.96,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10378,316,36,33730.21,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10379,313,33,16225.67,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10380,36,23,17430.39,2,0,🏆 Şampiyonlar (Champions)
+MST-10381,173,45,64923.05,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10382,20,2,1377.4,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10383,321,41,52633.02,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10384,264,21,8495.13,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10385,142,2,2115.64,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10386,143,27,39661.9,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10387,92,9,2588.0,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10388,354,1,161.23,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10389,322,11,8088.7,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10390,288,3,825.13,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10391,215,23,26687.33,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10392,342,26,36000.66,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10393,51,4,2943.71,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10394,153,18,8986.69,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10395,186,6,4418.67,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10396,63,35,39432.91,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10397,190,22,3568.91,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10398,125,43,40667.8,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10399,150,15,14669.16,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10400,314,22,22239.34,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10401,58,37,17639.0,8,0,🏆 Şampiyonlar (Champions)
+MST-10402,342,42,46786.79,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10403,305,12,3280.54,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10404,180,47,19693.7,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10405,170,49,65394.64,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10406,326,42,48185.6,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10407,271,38,6405.15,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10408,54,18,8735.54,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10409,101,45,19775.19,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10410,264,35,18045.6,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10411,53,30,14526.17,6,0,🏆 Şampiyonlar (Champions)
+MST-10412,60,24,5625.85,1,0,🏆 Şampiyonlar (Champions)
+MST-10413,108,42,32321.93,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10414,5,30,34175.71,9,0,🏆 Şampiyonlar (Champions)
+MST-10415,103,14,13567.23,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10416,196,6,6350.26,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10417,262,3,778.65,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10418,350,16,22952.2,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10419,47,7,8973.75,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10420,355,14,17316.21,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10421,311,9,11349.25,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10422,308,15,21137.39,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10423,144,21,18579.6,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10424,269,35,14713.33,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10425,124,2,1965.32,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10426,106,27,31128.03,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10427,158,2,2292.38,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10428,147,35,29888.47,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10429,145,18,4363.55,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10430,120,14,9114.03,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10431,319,20,27860.7,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10432,275,18,16902.11,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10433,92,10,8767.48,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10434,58,25,12823.81,0,0,🏆 Şampiyonlar (Champions)
+MST-10435,346,2,1294.81,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10436,229,25,33967.93,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10437,117,33,34640.93,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10438,318,36,43667.01,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10439,279,31,23664.36,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10440,127,14,14011.67,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10441,129,1,485.32,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10442,58,46,50709.12,1,0,🏆 Şampiyonlar (Champions)
+MST-10443,122,16,11636.19,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10444,1,46,34382.08,9,0,🏆 Şampiyonlar (Champions)
+MST-10445,239,3,3079.76,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10446,290,35,49489.26,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10447,96,41,9692.75,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10448,126,6,7580.42,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10449,118,25,13617.93,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10450,48,13,9740.79,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10451,89,34,6105.82,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10452,237,8,4451.3,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10453,272,21,17399.6,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10454,189,34,7678.48,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10455,192,4,3251.92,4,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10456,69,25,35039.98,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10457,278,15,4384.21,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10458,349,4,4727.98,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10459,247,45,31637.52,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10460,76,12,12413.81,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10461,154,32,16042.22,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10462,144,32,11690.07,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10463,86,28,10265.49,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10464,185,13,3187.13,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10465,285,31,12419.31,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10466,220,14,14653.75,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10467,69,20,26805.65,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10468,47,18,22483.25,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10469,94,29,31173.01,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10470,238,6,1794.5,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10471,204,32,17292.9,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10472,218,29,16478.94,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10473,341,43,20960.0,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10474,39,2,1690.52,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10475,100,23,20078.95,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10476,289,19,12004.13,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10477,254,31,19456.08,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10478,222,5,6342.75,5,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10479,357,19,23095.36,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10480,23,34,19227.83,2,0,🏆 Şampiyonlar (Champions)
+MST-10481,250,10,13836.14,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10482,10,25,35907.51,7,0,🏆 Şampiyonlar (Champions)
+MST-10483,246,2,1182.2,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10484,325,11,6913.21,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10485,100,31,25810.79,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10486,290,15,21307.7,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10487,180,9,11997.28,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10488,223,23,6634.74,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10489,250,19,12923.54,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10490,147,9,8073.46,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10491,96,35,29023.01,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10492,257,21,8646.02,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10493,325,9,11784.62,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10494,4,28,29788.36,8,0,🏆 Şampiyonlar (Champions)
+MST-10495,16,46,58934.11,3,0,🏆 Şampiyonlar (Champions)
+MST-10496,280,7,9165.32,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10497,336,16,18564.49,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10498,247,16,11886.95,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10499,258,33,32149.86,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10500,160,4,1465.97,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10501,340,4,4237.69,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10502,152,39,15287.68,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10503,178,40,43473.28,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10504,163,17,7819.28,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10505,33,37,11421.69,1,0,🏆 Şampiyonlar (Champions)
+MST-10506,179,39,14552.23,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10507,101,29,4427.99,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10508,268,36,40330.75,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10509,323,38,43272.17,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10510,65,39,32961.24,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10511,168,37,13610.07,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10512,330,35,9197.94,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10513,43,7,1230.77,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10514,44,27,10091.52,1,0,🏆 Şampiyonlar (Champions)
+MST-10515,285,28,37874.34,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10516,12,22,10473.64,0,0,🏆 Şampiyonlar (Champions)
+MST-10517,95,14,8795.73,4,1,💎 Sadık Müşteriler (Loyal)
+MST-10518,302,7,2045.51,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10519,253,37,16656.95,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10520,242,22,18720.97,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10521,35,5,4852.33,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10522,215,2,962.45,1,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10523,337,27,6154.34,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10524,90,21,14235.78,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10525,264,38,17714.63,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10526,93,15,6695.97,7,1,💎 Sadık Müşteriler (Loyal)
+MST-10527,90,21,30362.11,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10528,115,10,9820.06,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10529,105,23,20741.08,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10530,196,39,27740.56,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10531,314,5,3645.37,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10532,114,1,880.22,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10533,75,13,14172.34,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10534,217,21,23055.84,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10535,277,26,9926.46,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10536,249,45,37131.85,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10537,164,21,14829.01,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10538,357,18,23853.81,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10539,192,37,37089.38,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10540,227,45,39099.62,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10541,177,32,9785.05,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10542,99,36,34834.0,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10543,36,17,5239.83,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10544,96,35,21183.01,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10545,152,49,16799.0,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10546,151,11,11927.29,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10547,190,21,8997.25,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10548,224,26,17654.26,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10549,37,4,5436.64,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10550,268,34,14478.12,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10551,183,48,40105.77,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10552,13,18,12888.3,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10553,279,40,6978.7,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10554,217,35,42707.82,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10555,355,41,9971.69,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10556,361,29,22917.08,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10557,286,29,26300.56,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10558,273,38,37938.28,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10559,62,42,45345.41,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10560,84,21,10330.27,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10561,217,42,6865.8,9,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10562,342,13,14646.44,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10563,187,49,42783.68,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10564,19,41,52429.11,9,0,🏆 Şampiyonlar (Champions)
+MST-10565,177,17,21400.86,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10566,100,9,11596.41,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10567,233,41,32999.99,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10568,76,1,600.4,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10569,265,2,2437.21,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10570,284,48,36443.86,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10571,206,29,11531.76,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10572,223,33,43039.09,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10573,52,10,13414.56,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10574,339,40,31180.73,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10575,144,21,5296.09,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10576,69,28,18859.83,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10577,99,11,13582.53,8,1,💎 Sadık Müşteriler (Loyal)
+MST-10578,25,34,46491.43,4,0,🏆 Şampiyonlar (Champions)
+MST-10579,53,8,3397.51,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10580,151,22,5289.12,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10581,144,8,10675.38,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10582,57,49,33109.14,8,0,🏆 Şampiyonlar (Champions)
+MST-10583,39,15,13220.66,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10584,109,17,24767.11,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10585,181,23,5516.83,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10586,42,24,24605.5,7,0,🏆 Şampiyonlar (Champions)
+MST-10587,186,45,11251.9,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10588,223,19,12480.78,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10589,122,5,6175.75,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10590,133,32,23526.0,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10591,163,44,65832.63,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10592,215,1,904.73,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10593,221,23,13422.08,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10594,235,37,16544.56,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10595,331,8,4985.62,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10596,146,13,8487.96,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10597,239,8,1942.11,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10598,76,23,14925.28,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10599,9,43,33399.05,0,0,🏆 Şampiyonlar (Champions)
+MST-10600,74,1,1125.7,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10601,253,45,46646.32,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10602,230,24,26564.01,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10603,7,35,5645.18,3,0,🏆 Şampiyonlar (Champions)
+MST-10604,174,24,10652.42,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10605,141,17,17735.65,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10606,168,5,4016.93,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10607,170,20,3143.46,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10608,283,21,25957.42,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10609,122,40,47731.72,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10610,194,31,27601.34,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10611,5,46,11027.37,8,0,🏆 Şampiyonlar (Champions)
+MST-10612,29,36,42652.63,4,0,🏆 Şampiyonlar (Champions)
+MST-10613,165,11,10318.15,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10614,339,15,18084.69,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10615,136,19,22132.31,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10616,321,7,8638.37,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10617,342,28,23780.7,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10618,145,43,14595.84,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10619,327,5,5280.31,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10620,217,5,4938.2,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10621,301,30,34561.25,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10622,132,32,12138.86,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10623,292,8,3305.73,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10624,70,10,13520.53,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10625,252,38,44173.86,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10626,275,47,64677.1,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10627,364,32,37576.5,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10628,182,48,45895.66,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10629,167,28,28926.22,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10630,91,17,22955.49,7,1,💎 Sadık Müşteriler (Loyal)
+MST-10631,202,31,28873.06,8,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10632,346,8,8029.83,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10633,19,40,14449.74,4,0,🏆 Şampiyonlar (Champions)
+MST-10634,39,25,19744.84,2,0,🏆 Şampiyonlar (Champions)
+MST-10635,126,9,10054.22,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10636,173,2,1031.55,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10637,141,15,6345.65,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10638,242,3,1721.0,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10639,220,49,23325.27,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10640,126,36,15844.75,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10641,58,4,2894.19,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10642,148,14,19258.15,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10643,317,41,34215.75,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10644,361,41,16551.39,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10645,1,25,6347.79,1,0,🏆 Şampiyonlar (Champions)
+MST-10646,348,10,10898.11,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10647,190,21,14002.34,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10648,191,36,45340.98,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10649,312,12,12484.07,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10650,117,27,33073.0,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10651,134,40,20685.09,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10652,58,2,2169.37,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10653,44,13,6584.29,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10654,173,32,45367.76,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10655,160,31,31282.26,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10656,173,16,9409.45,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10657,317,32,16442.91,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10658,303,32,13048.03,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10659,149,34,36984.02,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10660,80,11,4897.93,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10661,213,10,9536.59,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10662,203,15,7608.86,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10663,252,17,17742.19,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10664,229,40,50006.75,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10665,164,18,21606.01,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10666,227,9,10594.34,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10667,147,25,10085.63,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10668,20,40,10772.79,1,0,🏆 Şampiyonlar (Champions)
+MST-10669,47,14,15310.13,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10670,233,25,16181.72,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10671,305,22,16140.68,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10672,14,30,5761.54,9,0,🏆 Şampiyonlar (Champions)
+MST-10673,143,20,10008.56,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10674,1,21,4104.73,7,0,🏆 Şampiyonlar (Champions)
+MST-10675,54,44,58823.63,2,0,🏆 Şampiyonlar (Champions)
+MST-10676,259,32,15314.74,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10677,144,46,41510.64,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10678,12,49,9928.48,6,0,🏆 Şampiyonlar (Champions)
+MST-10679,330,21,22055.12,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10680,224,35,20513.04,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10681,272,32,43590.11,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10682,358,30,40468.79,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10683,156,39,22976.55,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10684,8,49,66948.56,3,0,🏆 Şampiyonlar (Champions)
+MST-10685,122,12,17937.75,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10686,348,41,51836.76,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10687,164,47,60657.09,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10688,90,18,8750.91,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10689,136,21,19499.51,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10690,186,13,3130.34,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10691,316,21,5840.92,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10692,178,8,11988.04,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10693,28,46,27184.3,7,0,🏆 Şampiyonlar (Champions)
+MST-10694,220,40,46401.93,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10695,357,46,56993.9,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10696,41,7,9158.32,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10697,228,23,34426.36,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10698,192,44,20944.89,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10699,145,32,6543.16,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10700,201,11,7756.19,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10701,212,22,7163.4,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10702,220,22,3966.05,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10703,240,43,27372.78,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10704,46,25,30201.17,3,0,🏆 Şampiyonlar (Champions)
+MST-10705,35,22,20115.57,2,0,🏆 Şampiyonlar (Champions)
+MST-10706,253,28,16023.01,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10707,82,29,29967.49,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10708,256,13,6021.92,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10709,197,18,3049.47,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10710,303,2,2363.75,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10711,10,29,28769.54,1,0,🏆 Şampiyonlar (Champions)
+MST-10712,312,21,24761.28,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10713,286,15,3038.49,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10714,242,27,34563.01,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10715,251,31,30577.17,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10716,5,15,13658.76,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10717,119,23,22844.27,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10718,289,24,31607.64,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10719,65,44,41464.03,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10720,146,13,12145.68,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10721,224,22,32723.17,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10722,239,43,50378.19,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10723,177,37,27642.58,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10724,267,33,36464.54,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10725,341,3,2026.38,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10726,282,19,8720.66,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10727,63,23,21982.25,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10728,217,29,40688.33,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10729,342,30,42130.15,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10730,315,39,23851.31,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10731,283,44,37944.04,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10732,177,47,20478.3,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10733,98,25,37352.55,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10734,105,37,54556.84,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10735,99,47,48261.34,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10736,311,8,9887.67,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10737,6,42,46846.18,8,0,🏆 Şampiyonlar (Champions)
+MST-10738,197,16,15212.22,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10739,351,8,1776.16,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10740,133,1,763.93,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10741,358,44,46682.31,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10742,259,5,5323.34,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10743,23,3,1961.15,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10744,53,1,1421.28,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10745,165,4,1503.73,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10746,202,40,33019.41,8,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10747,83,35,37894.27,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10748,145,32,34916.27,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10749,85,42,43077.83,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10750,78,34,17735.73,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10751,1,43,15517.79,9,0,🏆 Şampiyonlar (Champions)
+MST-10752,51,25,25212.99,5,0,🏆 Şampiyonlar (Champions)
+MST-10753,173,10,9590.58,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10754,205,21,8234.74,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10755,260,46,50689.14,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10756,288,39,29814.81,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10757,34,27,28389.87,0,0,🏆 Şampiyonlar (Champions)
+MST-10758,348,27,34572.03,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10759,95,2,758.27,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10760,72,41,7209.67,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10761,39,48,57685.85,0,0,🏆 Şampiyonlar (Champions)
+MST-10762,154,13,12650.19,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10763,250,9,9850.62,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10764,162,36,46134.33,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10765,118,22,27143.48,9,1,💎 Sadık Müşteriler (Loyal)
+MST-10766,259,42,60784.17,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10767,306,26,22711.32,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10768,268,12,9713.63,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10769,54,17,11773.31,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10770,236,14,5004.76,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10771,222,14,12922.28,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10772,251,34,17814.87,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10773,313,20,27875.3,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10774,112,11,10310.38,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10775,255,16,15205.35,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10776,303,31,19503.6,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10777,207,6,1321.11,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10778,229,19,3664.23,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10779,341,37,26695.59,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10780,66,4,1056.65,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10781,75,47,45554.44,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10782,103,4,5357.25,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10783,192,20,26838.7,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10784,252,10,10397.11,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10785,226,24,10443.91,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10786,294,35,46026.6,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10787,306,26,35001.88,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10788,98,37,15372.85,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10789,338,38,43529.96,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10790,286,21,11272.83,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10791,335,40,49342.58,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10792,347,39,58354.58,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10793,308,21,4001.24,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10794,249,10,13614.44,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10795,166,38,37640.95,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10796,335,46,67347.06,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10797,30,4,3111.05,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10798,247,45,58228.82,8,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10799,106,20,4684.64,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10800,51,17,10244.65,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10801,81,7,1683.31,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10802,133,4,5866.85,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10803,285,29,36334.53,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10804,138,14,18213.15,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10805,184,3,4248.76,2,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10806,330,24,6357.35,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10807,273,37,24810.6,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10808,340,16,3934.35,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10809,69,4,1738.28,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10810,34,24,11031.45,5,0,🏆 Şampiyonlar (Champions)
+MST-10811,262,34,26632.02,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10812,53,30,15376.77,3,0,🏆 Şampiyonlar (Champions)
+MST-10813,205,18,5153.77,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10814,126,19,7146.15,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10815,235,31,10813.48,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10816,43,19,27809.42,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10817,240,49,57577.2,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10818,111,46,66997.99,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10819,249,19,14129.34,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10820,151,22,11567.54,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10821,183,24,29464.7,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10822,336,45,26569.93,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10823,95,12,6650.01,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10824,8,30,13916.49,8,0,🏆 Şampiyonlar (Champions)
+MST-10825,360,38,12352.53,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10826,184,31,15382.98,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10827,281,36,22668.54,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10828,195,19,20137.95,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10829,352,48,11254.2,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10830,195,45,19538.3,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10831,155,36,44718.55,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10832,93,30,10450.34,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10833,160,49,30015.98,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10834,61,33,43470.55,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10835,122,18,6464.69,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10836,51,49,12823.04,0,0,🏆 Şampiyonlar (Champions)
+MST-10837,277,28,22515.54,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10838,5,47,26238.52,3,0,🏆 Şampiyonlar (Champions)
+MST-10839,92,11,10016.61,2,0,💎 Sadık Müşteriler (Loyal)
+MST-10840,170,45,55581.15,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10841,317,33,11059.97,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10842,22,17,15877.04,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10843,326,6,4994.62,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10844,1,4,1378.03,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10845,133,20,19847.96,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10846,233,48,24931.9,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10847,12,47,38003.09,0,0,🏆 Şampiyonlar (Champions)
+MST-10848,346,27,7048.83,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10849,46,15,11556.58,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10850,34,6,3382.35,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10851,78,47,59230.09,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10852,218,14,3176.9,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10853,301,11,7866.32,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10854,73,39,29986.41,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10855,282,9,10158.82,3,0,💤 Uykuya Dalanlar (Hibernating)
+MST-10856,249,26,24057.49,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10857,47,16,16811.79,8,1,💎 Sadık Müşteriler (Loyal)
+MST-10858,121,5,5995.08,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10859,214,10,13139.74,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10860,239,3,1721.2,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10861,56,13,11392.3,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10862,350,43,55218.27,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10863,107,49,72802.19,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10864,319,30,40525.53,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10865,48,45,29316.64,2,0,🏆 Şampiyonlar (Champions)
+MST-10866,61,6,2480.85,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10867,337,17,13781.56,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10868,26,45,51804.72,7,0,🏆 Şampiyonlar (Champions)
+MST-10869,292,19,15484.4,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10870,257,42,33696.35,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10871,8,35,44856.39,0,0,🏆 Şampiyonlar (Champions)
+MST-10872,113,46,29343.17,0,0,💎 Sadık Müşteriler (Loyal)
+MST-10873,355,26,34078.79,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10874,253,5,3495.93,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10875,180,29,17200.33,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10876,207,37,28226.8,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10877,303,20,23586.07,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10878,127,49,15685.03,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10879,56,21,8718.48,0,0,🏆 Şampiyonlar (Champions)
+MST-10880,214,10,14344.51,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10881,14,5,1934.57,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10882,28,36,32991.55,0,0,🏆 Şampiyonlar (Champions)
+MST-10883,78,6,5592.45,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10884,216,26,21085.82,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10885,154,4,4081.62,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10886,14,39,17950.38,1,0,🏆 Şampiyonlar (Champions)
+MST-10887,187,39,34947.67,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10888,312,35,22835.19,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10889,7,1,1043.25,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10890,3,24,8175.64,1,0,🏆 Şampiyonlar (Champions)
+MST-10891,111,36,33144.64,7,1,💎 Sadık Müşteriler (Loyal)
+MST-10892,238,6,2400.69,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10893,363,41,21572.89,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10894,239,46,20481.88,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10895,274,44,17460.56,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10896,294,31,39206.0,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10897,227,20,10714.1,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10898,15,24,33638.81,8,0,🏆 Şampiyonlar (Champions)
+MST-10899,192,25,36485.02,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10900,119,36,33163.26,7,0,💎 Sadık Müşteriler (Loyal)
+MST-10901,28,21,7204.08,2,0,🏆 Şampiyonlar (Champions)
+MST-10902,202,30,19669.2,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10903,39,24,29446.53,1,0,🏆 Şampiyonlar (Champions)
+MST-10904,273,44,28423.01,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10905,231,42,11233.88,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10906,86,30,27049.79,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10907,126,22,28400.09,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10908,300,28,34286.02,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10909,25,7,2704.91,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10910,145,35,37038.13,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10911,13,28,12535.06,6,0,🏆 Şampiyonlar (Champions)
+MST-10912,212,14,6224.12,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10913,25,10,13299.97,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10914,68,16,7792.85,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10915,67,16,8086.14,3,1,💎 Sadık Müşteriler (Loyal)
+MST-10916,233,31,4677.34,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10917,109,42,55666.93,8,0,💎 Sadık Müşteriler (Loyal)
+MST-10918,146,25,30500.07,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10919,111,13,12959.62,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10920,228,6,6977.15,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10921,111,44,15631.68,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10922,34,9,6918.63,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10923,111,45,28086.58,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10924,264,36,9957.54,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10925,236,43,34669.87,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10926,83,20,27859.97,6,0,💎 Sadık Müşteriler (Loyal)
+MST-10927,42,18,3673.44,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10928,101,43,23369.31,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10929,6,21,9033.79,9,1,🏆 Şampiyonlar (Champions)
+MST-10930,180,4,1885.99,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10931,282,33,45420.76,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10932,320,27,21111.12,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10933,226,7,5456.53,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10934,315,6,7060.66,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10935,229,15,5378.47,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10936,289,18,14540.55,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10937,150,32,23375.36,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10938,277,11,10514.12,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10939,198,20,29988.06,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10940,70,24,28530.14,5,0,💎 Sadık Müşteriler (Loyal)
+MST-10941,112,15,10306.78,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10942,4,48,60825.44,5,0,🏆 Şampiyonlar (Champions)
+MST-10943,350,7,2663.19,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10944,331,21,4013.65,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10945,318,42,17892.22,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10946,350,26,15848.45,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10947,95,44,36928.5,1,0,💎 Sadık Müşteriler (Loyal)
+MST-10948,152,14,13725.94,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10949,311,37,51034.76,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10950,137,21,17604.36,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10951,247,18,14881.0,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10952,243,5,1089.14,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10953,31,3,591.39,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10954,40,23,20563.52,9,1,🏆 Şampiyonlar (Champions)
+MST-10955,229,26,19280.07,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10956,36,37,47467.06,2,0,🏆 Şampiyonlar (Champions)
+MST-10957,223,24,8806.02,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10958,6,49,9001.88,6,0,🏆 Şampiyonlar (Champions)
+MST-10959,322,19,14367.84,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10960,220,25,11764.9,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10961,75,21,4556.57,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10962,4,12,13538.49,9,0,💎 Sadık Müşteriler (Loyal)
+MST-10963,335,41,12326.67,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10964,134,33,32050.63,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10965,118,4,2117.67,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10966,94,42,16137.23,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10967,62,7,4638.65,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10968,194,22,27102.94,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10969,335,33,22417.77,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10970,203,17,19780.16,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10971,26,24,7665.76,8,0,🏆 Şampiyonlar (Champions)
+MST-10972,173,34,40570.21,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10973,300,28,13156.08,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10974,133,43,45772.67,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10975,326,41,37466.01,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10976,118,39,54769.47,3,0,💎 Sadık Müşteriler (Loyal)
+MST-10977,324,22,14803.48,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10978,275,49,11726.83,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10979,212,17,2989.62,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10980,225,34,43052.81,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10981,20,6,5150.36,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10982,113,46,55042.66,4,0,💎 Sadık Müşteriler (Loyal)
+MST-10983,140,6,2798.85,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10984,47,34,20939.34,5,0,🏆 Şampiyonlar (Champions)
+MST-10985,1,1,190.64,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10986,90,10,14480.15,7,1,💎 Sadık Müşteriler (Loyal)
+MST-10987,142,21,22084.06,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10988,320,5,7049.13,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10989,38,2,1016.84,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10990,293,22,21460.47,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10991,139,48,51166.8,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10992,356,2,1157.38,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-10993,333,10,12949.47,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-10994,259,34,48574.71,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10995,161,16,21512.87,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10996,178,48,55091.54,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-10997,10,39,20458.52,8,0,🏆 Şampiyonlar (Champions)
+MST-10998,261,22,11664.0,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-10999,138,12,17406.44,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11000,172,24,3933.22,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11001,13,47,52483.37,1,0,🏆 Şampiyonlar (Champions)
+MST-11002,168,40,44137.29,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11003,130,38,37643.97,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11004,84,10,14866.47,5,1,💎 Sadık Müşteriler (Loyal)
+MST-11005,321,35,19986.3,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11006,319,49,29839.14,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11007,101,32,8210.18,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11008,329,7,5234.44,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11009,273,21,10550.73,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11010,265,20,12271.44,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11011,38,26,33193.47,3,0,🏆 Şampiyonlar (Champions)
+MST-11012,94,4,5651.62,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11013,95,46,18434.02,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11014,305,22,14363.52,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11015,69,15,21054.77,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11016,318,40,9337.66,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11017,236,21,5768.42,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11018,334,15,5546.52,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11019,137,22,20977.82,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11020,76,28,9887.85,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11021,35,14,20396.64,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11022,1,27,20332.74,5,0,🏆 Şampiyonlar (Champions)
+MST-11023,296,41,33909.02,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11024,320,40,19319.57,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11025,60,28,22002.3,7,0,🏆 Şampiyonlar (Champions)
+MST-11026,320,26,27133.17,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11027,349,49,57040.37,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11028,328,2,2335.44,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11029,267,25,23253.83,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11030,361,3,4112.66,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11031,229,8,10028.0,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11032,270,44,51568.66,9,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11033,316,33,7427.23,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11034,286,42,6689.98,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11035,291,35,15288.13,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11036,213,6,6274.54,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11037,165,39,27499.55,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11038,5,23,15944.71,1,0,🏆 Şampiyonlar (Champions)
+MST-11039,339,25,33604.81,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11040,78,43,58437.42,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11041,62,19,26170.35,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11042,132,5,2868.68,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11043,89,11,11912.18,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11044,237,12,6200.46,1,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11045,42,10,4073.23,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11046,89,8,3194.03,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11047,296,24,14684.29,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11048,328,28,20452.4,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11049,295,41,52143.04,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11050,104,36,11226.71,6,1,💎 Sadık Müşteriler (Loyal)
+MST-11051,14,37,42259.55,5,0,🏆 Şampiyonlar (Champions)
+MST-11052,288,21,18216.75,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11053,179,8,4309.81,1,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11054,125,9,7337.76,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11055,353,47,26081.32,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11056,23,15,14320.66,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11057,63,48,35313.09,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11058,143,46,17109.58,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11059,153,40,12295.49,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11060,145,18,15984.71,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11061,225,42,57466.82,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11062,309,20,12286.86,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11063,104,6,6837.3,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11064,104,12,12470.31,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11065,39,2,2815.2,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11066,198,7,8808.27,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11067,134,16,14638.67,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11068,67,3,3110.97,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11069,179,45,61326.98,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11070,42,3,2068.05,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11071,15,27,15961.67,4,0,🏆 Şampiyonlar (Champions)
+MST-11072,111,43,7077.58,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11073,157,40,50633.76,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11074,289,38,46790.31,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11075,231,33,9603.45,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11076,157,28,26005.21,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11077,38,1,776.38,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11078,97,8,2482.06,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11079,289,37,54529.38,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11080,254,32,14074.86,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11081,196,48,11556.77,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11082,86,43,40980.89,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11083,322,37,42456.39,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11084,10,4,775.19,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11085,5,30,31178.06,6,0,🏆 Şampiyonlar (Champions)
+MST-11086,123,6,5211.56,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11087,330,46,13312.76,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11088,353,19,7275.24,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11089,118,32,29336.49,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11090,294,9,4950.75,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11091,159,12,17000.71,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11092,303,11,13808.29,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11093,228,46,67979.52,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11094,216,16,8008.89,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11095,184,1,1459.13,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11096,15,45,32947.46,4,0,🏆 Şampiyonlar (Champions)
+MST-11097,157,21,13002.16,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11098,136,30,6539.16,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11099,261,13,2876.03,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11100,157,34,36863.32,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11101,47,4,3072.82,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11102,324,28,12762.52,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11103,332,38,37196.68,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11104,173,31,15232.11,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11105,130,27,25104.68,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11106,95,5,3174.66,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11107,115,25,31544.89,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11108,243,3,3773.82,2,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11109,292,33,26215.96,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11110,282,4,2494.42,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11111,299,25,15986.39,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11112,283,20,24754.29,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11113,69,34,20163.44,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11114,148,26,11237.98,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11115,11,5,1321.65,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11116,254,35,27301.25,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11117,330,28,22424.59,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11118,360,29,37271.58,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11119,38,9,4038.05,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11120,134,38,25244.85,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11121,200,6,7448.09,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11122,23,19,23975.95,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11123,303,44,29445.9,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11124,346,11,8467.99,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11125,302,2,1118.87,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11126,363,47,66220.61,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11127,218,44,13647.44,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11128,141,44,62064.72,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11129,104,9,9658.98,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11130,210,21,18220.07,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11131,111,24,4658.15,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11132,104,34,26929.87,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11133,316,22,15410.12,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11134,171,3,1102.94,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11135,356,12,12433.84,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11136,324,28,40909.5,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11137,133,30,27268.65,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11138,293,26,28987.84,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11139,328,48,11635.59,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11140,127,21,14990.86,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11141,106,28,8598.35,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11142,92,26,25409.13,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11143,287,33,46759.38,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11144,51,21,21911.4,0,0,🏆 Şampiyonlar (Champions)
+MST-11145,29,35,8878.94,5,0,🏆 Şampiyonlar (Champions)
+MST-11146,296,34,21379.18,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11147,297,41,36629.22,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11148,214,47,32633.53,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11149,267,18,22957.55,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11150,257,11,13747.86,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11151,302,23,22447.35,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11152,101,48,31400.07,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11153,346,22,10883.49,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11154,110,17,4979.82,9,1,💎 Sadık Müşteriler (Loyal)
+MST-11155,182,5,3145.56,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11156,313,44,31142.45,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11157,1,11,11685.97,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11158,319,30,31155.47,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11159,55,15,3669.69,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11160,149,27,18457.2,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11161,309,35,13839.05,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11162,137,33,11936.01,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11163,202,20,25337.16,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11164,313,16,3305.37,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11165,117,34,24340.49,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11166,154,2,754.15,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11167,291,35,46798.35,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11168,63,40,36080.19,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11169,244,28,12946.19,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11170,25,47,38929.01,8,0,🏆 Şampiyonlar (Champions)
+MST-11171,90,39,44362.76,7,1,💎 Sadık Müşteriler (Loyal)
+MST-11172,75,6,8660.76,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11173,294,9,4028.42,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11174,210,20,26926.91,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11175,347,1,1411.31,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11176,17,8,11097.34,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11177,128,23,23179.62,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11178,364,3,3000.77,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11179,251,4,2777.34,2,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11180,179,25,29143.43,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11181,182,47,40760.61,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11182,152,38,40452.57,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11183,25,15,10926.27,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11184,180,21,23887.92,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11185,198,35,44206.28,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11186,344,46,15993.69,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11187,161,14,17842.37,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11188,177,36,31658.41,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11189,285,12,15483.59,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11190,63,17,12448.37,9,1,💎 Sadık Müşteriler (Loyal)
+MST-11191,150,39,25806.48,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11192,154,9,12467.99,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11193,156,35,17117.75,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11194,49,13,16765.93,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11195,337,15,12051.42,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11196,84,18,15192.52,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11197,361,33,18692.26,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11198,177,6,5541.64,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11199,148,27,15903.95,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11200,118,23,4669.32,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11201,342,27,13964.35,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11202,63,34,5392.8,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11203,189,46,67655.83,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11204,360,38,55242.83,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11205,49,14,9568.44,8,1,💎 Sadık Müşteriler (Loyal)
+MST-11206,327,36,40798.82,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11207,257,8,4934.71,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11208,224,35,36959.15,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11209,141,19,23509.28,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11210,215,30,42843.63,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11211,211,14,9664.01,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11212,318,20,24149.05,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11213,32,49,24941.17,6,0,🏆 Şampiyonlar (Champions)
+MST-11214,158,25,37173.72,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11215,285,40,7391.56,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11216,305,24,23154.33,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11217,286,14,14564.66,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11218,144,26,28050.4,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11219,19,38,11875.88,8,0,🏆 Şampiyonlar (Champions)
+MST-11220,18,23,32591.35,9,0,🏆 Şampiyonlar (Champions)
+MST-11221,257,22,8681.14,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11222,78,48,47554.42,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11223,175,19,8561.64,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11224,194,46,25978.14,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11225,113,3,2663.16,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11226,114,42,29954.87,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11227,222,19,6959.79,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11228,166,9,3426.88,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11229,319,28,20005.87,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11230,132,20,23446.64,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11231,264,45,61301.35,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11232,55,7,1845.01,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11233,359,14,9529.66,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11234,131,9,2567.98,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11235,288,19,3275.6,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11236,266,47,49036.05,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11237,162,14,13486.29,1,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11238,87,38,14062.88,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11239,55,36,16763.3,9,0,🏆 Şampiyonlar (Champions)
+MST-11240,288,40,7280.22,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11241,178,17,21712.04,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11242,349,30,43974.97,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11243,8,9,2995.83,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11244,321,33,15262.22,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11245,313,25,33058.82,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11246,247,14,19610.17,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11247,323,11,7881.47,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11248,255,35,7641.91,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11249,328,41,8330.34,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11250,54,14,12947.65,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11251,249,30,20412.25,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11252,239,41,7735.91,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11253,229,4,3749.56,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11254,67,4,661.03,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11255,51,28,33962.66,8,0,🏆 Şampiyonlar (Champions)
+MST-11256,97,8,4509.47,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11257,92,2,408.7,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11258,264,41,38715.3,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11259,291,46,31596.2,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11260,96,22,32221.87,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11261,88,41,36271.4,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11262,78,16,8345.17,7,1,💎 Sadık Müşteriler (Loyal)
+MST-11263,288,29,32124.53,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11264,120,49,25309.2,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11265,302,48,65794.97,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11266,165,30,19676.24,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11267,182,12,10707.87,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11268,223,35,7639.58,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11269,311,11,7977.9,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11270,7,46,58589.78,5,0,🏆 Şampiyonlar (Champions)
+MST-11271,330,21,25990.14,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11272,263,21,9509.43,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11273,161,5,2276.03,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11274,151,48,60161.38,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11275,85,20,28120.76,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11276,147,37,10313.28,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11277,112,3,2272.74,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11278,36,44,26644.78,2,0,🏆 Şampiyonlar (Champions)
+MST-11279,285,33,43739.17,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11280,188,9,2364.83,1,0,💤 Uykuya Dalanlar (Hibernating)
+MST-11281,82,9,3915.18,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11282,2,4,4663.33,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11283,303,35,7673.63,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11284,197,17,13853.69,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11285,11,34,25392.71,1,0,🏆 Şampiyonlar (Champions)
+MST-11286,234,24,14434.6,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11287,195,32,21845.52,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11288,119,1,865.42,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11289,20,8,2942.77,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11290,261,45,41498.75,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11291,293,23,28458.67,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11292,256,47,55282.21,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11293,222,40,14310.59,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11294,226,12,4217.84,4,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11295,53,12,6144.42,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11296,355,46,29322.74,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11297,342,47,32966.51,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11298,364,15,16013.87,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11299,280,41,9287.26,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11300,81,19,3739.35,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11301,202,26,17656.06,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11302,158,29,31643.96,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11303,120,22,9045.03,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11304,59,40,40641.24,7,0,🏆 Şampiyonlar (Champions)
+MST-11305,215,21,10516.13,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11306,128,38,51156.22,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11307,224,20,27183.63,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11308,209,29,15988.79,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11309,115,4,1841.97,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11310,209,7,4936.82,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11311,14,28,13292.09,9,0,🏆 Şampiyonlar (Champions)
+MST-11312,9,28,29616.11,2,0,🏆 Şampiyonlar (Champions)
+MST-11313,40,4,5060.75,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11314,237,22,23290.84,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11315,281,12,15154.48,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11316,359,45,30867.27,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11317,201,3,1083.08,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11318,246,22,25217.14,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11319,278,44,28012.19,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11320,235,2,2112.43,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11321,4,24,12368.86,3,0,🏆 Şampiyonlar (Champions)
+MST-11322,154,34,8828.44,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11323,29,27,40229.61,3,0,🏆 Şampiyonlar (Champions)
+MST-11324,109,41,14795.75,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11325,98,1,1484.37,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11326,215,8,11754.62,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11327,293,23,28098.05,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11328,75,38,39528.4,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11329,326,6,5580.24,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11330,146,22,29023.22,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11331,128,25,13518.58,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11332,341,18,14064.65,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11333,42,17,16765.0,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11334,356,12,8461.29,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11335,41,6,4362.64,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11336,34,26,15492.99,6,0,🏆 Şampiyonlar (Champions)
+MST-11337,17,27,24616.25,5,0,🏆 Şampiyonlar (Champions)
+MST-11338,165,8,10386.2,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11339,153,19,8019.2,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11340,76,42,59282.35,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11341,87,1,1080.27,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11342,117,29,36581.15,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11343,362,45,40538.58,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11344,342,49,58915.03,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11345,27,35,6015.47,1,0,🏆 Şampiyonlar (Champions)
+MST-11346,313,40,50192.54,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11347,287,14,2858.62,0,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11348,134,35,47298.41,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11349,219,48,71479.19,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11350,168,45,24614.6,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11351,98,20,8678.6,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11352,268,49,57978.79,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11353,237,13,6390.61,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11354,309,38,50103.35,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11355,173,49,14153.04,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11356,190,46,14721.82,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11357,122,49,72120.88,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11358,46,8,8477.46,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11359,64,43,55611.8,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11360,130,20,11756.89,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11361,310,33,35087.35,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11362,363,26,24757.89,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11363,193,39,37605.85,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11364,307,21,22499.8,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11365,181,49,45410.01,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11366,292,42,30627.84,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11367,282,43,22467.31,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11368,29,41,48690.98,9,0,🏆 Şampiyonlar (Champions)
+MST-11369,149,9,4099.21,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11370,267,24,26032.28,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11371,296,37,17204.97,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11372,11,49,48715.59,8,0,🏆 Şampiyonlar (Champions)
+MST-11373,164,41,47500.78,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11374,113,17,7569.48,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11375,187,24,5542.16,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11376,295,21,6863.11,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11377,232,39,37755.74,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11378,227,41,53166.86,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11379,310,39,8219.08,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11380,98,13,14834.35,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11381,55,11,6718.58,8,1,💎 Sadık Müşteriler (Loyal)
+MST-11382,111,46,36616.61,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11383,152,19,26675.25,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11384,246,11,6579.78,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11385,69,13,10116.66,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11386,312,46,7749.68,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11387,289,45,11707.12,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11388,250,1,499.1,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11389,36,40,7504.02,0,0,🏆 Şampiyonlar (Champions)
+MST-11390,239,44,44103.69,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11391,148,19,13787.12,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11392,227,12,10679.95,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11393,244,8,3086.19,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11394,337,8,4396.07,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11395,201,45,47077.34,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11396,154,12,17437.9,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11397,73,48,10467.01,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11398,201,33,44616.62,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11399,296,45,41795.53,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11400,17,26,23693.58,9,0,🏆 Şampiyonlar (Champions)
+MST-11401,129,39,32189.66,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11402,217,28,6823.1,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11403,61,5,1356.67,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11404,104,8,7689.85,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11405,42,25,15257.35,6,0,🏆 Şampiyonlar (Champions)
+MST-11406,25,27,37484.42,0,0,🏆 Şampiyonlar (Champions)
+MST-11407,39,46,32149.27,3,0,🏆 Şampiyonlar (Champions)
+MST-11408,291,23,7898.89,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11409,131,30,33446.11,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11410,229,45,24571.22,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11411,108,47,40391.09,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11412,172,23,25117.71,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11413,102,49,66902.47,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11414,354,47,57314.53,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11415,12,20,21261.75,9,1,🏆 Şampiyonlar (Champions)
+MST-11416,275,18,19215.09,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11417,101,18,25685.97,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11418,44,2,1098.73,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11419,305,4,606.01,2,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11420,17,30,15514.16,9,0,🏆 Şampiyonlar (Champions)
+MST-11421,330,33,14657.06,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11422,57,36,37565.16,8,1,🏆 Şampiyonlar (Champions)
+MST-11423,311,18,18099.19,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11424,303,37,35193.4,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11425,12,19,3266.64,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11426,318,47,53290.97,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11427,80,28,16429.45,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11428,216,40,41913.02,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11429,339,20,18027.62,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11430,264,49,30021.65,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11431,149,33,10945.37,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11432,81,12,3329.59,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11433,215,15,19088.25,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11434,198,41,56983.3,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11435,200,39,40061.34,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11436,25,2,579.27,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11437,89,29,20089.37,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11438,268,41,46496.78,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11439,143,10,12027.58,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11440,59,2,619.19,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11441,26,11,1650.46,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11442,47,13,14448.01,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11443,288,10,6314.05,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11444,266,14,6909.7,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11445,16,18,3013.41,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11446,199,9,7914.64,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11447,282,39,50663.09,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11448,86,28,40398.48,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11449,250,3,2741.27,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11450,270,20,16890.46,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11451,335,6,1588.96,2,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11452,117,27,24056.41,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11453,7,2,1325.94,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11454,137,29,28119.35,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11455,176,38,25641.66,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11456,328,3,1423.21,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11457,315,16,4451.25,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11458,215,30,17254.2,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11459,82,40,11218.82,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11460,223,2,777.62,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11461,103,17,25209.36,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11462,273,41,30731.13,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11463,14,12,10416.32,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11464,159,35,46528.48,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11465,152,43,64242.77,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11466,108,1,936.66,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11467,188,45,56107.78,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11468,301,15,8870.56,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11469,98,26,14631.61,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11470,131,37,25665.05,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11471,293,21,22215.58,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11472,171,49,52476.98,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11473,183,31,17842.77,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11474,364,25,8245.83,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11475,39,23,23085.9,7,0,🏆 Şampiyonlar (Champions)
+MST-11476,15,24,7757.76,1,0,🏆 Şampiyonlar (Champions)
+MST-11477,4,38,35376.67,8,0,🏆 Şampiyonlar (Champions)
+MST-11478,349,28,30411.36,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11479,210,21,23012.34,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11480,161,43,50189.06,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11481,16,18,23910.48,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11482,108,36,29698.01,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11483,311,35,39754.27,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11484,227,45,44364.74,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11485,170,9,3617.68,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11486,34,38,7017.88,2,0,🏆 Şampiyonlar (Champions)
+MST-11487,251,30,16023.93,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11488,247,44,32916.2,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11489,269,34,33425.16,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11490,141,32,41518.24,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11491,274,3,1244.8,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11492,96,3,958.48,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11493,227,28,40619.54,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11494,39,44,13017.85,8,0,🏆 Şampiyonlar (Champions)
+MST-11495,302,15,11939.44,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11496,29,41,38560.95,2,0,🏆 Şampiyonlar (Champions)
+MST-11497,318,23,20259.68,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11498,245,40,10645.74,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11499,236,11,2496.85,0,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11500,185,48,14035.33,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11501,272,32,30097.39,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11502,236,36,31855.16,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11503,239,33,15363.15,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11504,266,24,24263.88,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11505,359,39,49026.55,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11506,340,34,7008.47,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11507,65,28,23029.31,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11508,177,37,39981.06,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11509,3,7,3434.35,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11510,142,4,2261.96,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11511,158,37,36201.21,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11512,324,1,1362.21,0,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11513,146,1,1243.4,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11514,293,47,44049.61,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11515,153,20,22715.99,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11516,193,19,12207.7,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11517,73,29,29443.8,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11518,305,10,7793.45,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11519,344,18,7315.45,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11520,140,28,30725.71,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11521,187,35,31542.95,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11522,293,43,27267.98,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11523,61,47,64874.47,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11524,198,31,5526.09,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11525,295,27,15559.93,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11526,319,11,2494.69,0,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11527,302,49,58055.78,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11528,344,49,53794.41,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11529,11,38,22698.37,5,0,🏆 Şampiyonlar (Champions)
+MST-11530,62,5,5310.72,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11531,333,8,5476.12,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11532,226,34,39812.05,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11533,153,48,36631.1,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11534,199,12,8478.93,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11535,52,38,53651.64,9,0,🏆 Şampiyonlar (Champions)
+MST-11536,260,1,488.69,0,0,💤 Uykuya Dalanlar (Hibernating)
+MST-11537,59,31,9690.72,6,0,🏆 Şampiyonlar (Champions)
+MST-11538,72,4,3756.53,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11539,148,49,71470.64,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11540,349,45,29703.73,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11541,63,5,1168.75,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11542,310,30,18241.86,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11543,243,24,19992.19,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11544,330,3,1105.79,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11545,107,11,11422.82,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11546,226,45,67363.28,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11547,313,4,3039.39,2,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11548,218,26,16350.97,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11549,241,27,18655.67,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11550,259,46,14050.58,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11551,262,43,57724.03,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11552,5,27,19170.4,8,0,🏆 Şampiyonlar (Champions)
+MST-11553,261,42,28258.46,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11554,54,6,6243.49,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11555,47,15,11201.18,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11556,215,30,30753.46,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11557,177,42,9784.0,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11558,9,37,46195.48,8,0,🏆 Şampiyonlar (Champions)
+MST-11559,99,37,52528.17,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11560,20,42,43085.0,1,0,🏆 Şampiyonlar (Champions)
+MST-11561,241,37,53230.57,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11562,61,35,12405.18,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11563,178,23,18273.77,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11564,338,6,5774.63,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11565,62,4,3741.38,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11566,145,18,12455.52,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11567,216,9,5457.73,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11568,3,49,15739.41,2,0,🏆 Şampiyonlar (Champions)
+MST-11569,160,29,19686.72,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11570,227,13,4804.7,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11571,269,47,53645.5,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11572,120,17,7342.67,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11573,89,45,10307.84,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11574,329,32,28662.22,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11575,68,48,45770.89,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11576,357,22,29195.82,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11577,98,4,3715.7,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11578,267,5,3082.0,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11579,105,37,45660.44,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11580,323,41,36054.44,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11581,123,49,12594.39,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11582,29,13,11880.68,8,1,💎 Sadık Müşteriler (Loyal)
+MST-11583,137,34,46778.05,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11584,195,45,30825.99,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11585,226,22,12100.88,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11586,332,23,7904.73,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11587,170,3,1063.35,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11588,9,42,30838.14,1,0,🏆 Şampiyonlar (Champions)
+MST-11589,40,34,32441.7,4,0,🏆 Şampiyonlar (Champions)
+MST-11590,25,32,8282.59,7,0,🏆 Şampiyonlar (Champions)
+MST-11591,261,45,63828.79,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11592,226,49,57302.09,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11593,124,21,19780.79,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11594,38,46,58346.04,6,0,🏆 Şampiyonlar (Champions)
+MST-11595,328,44,11363.09,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11596,251,21,16668.38,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11597,176,44,44027.53,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11598,90,11,13955.5,9,1,💎 Sadık Müşteriler (Loyal)
+MST-11599,37,39,47099.67,8,0,🏆 Şampiyonlar (Champions)
+MST-11600,316,4,2096.17,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11601,176,1,1420.19,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11602,284,28,8900.27,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11603,81,24,31954.33,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11604,114,35,51126.93,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11605,40,13,5059.04,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11606,301,47,52865.09,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11607,224,34,6949.11,5,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11608,318,11,7670.53,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11609,349,36,30491.37,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11610,115,17,15875.81,9,1,💎 Sadık Müşteriler (Loyal)
+MST-11611,186,35,49473.03,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11612,323,18,19035.69,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11613,56,40,31989.01,8,0,🏆 Şampiyonlar (Champions)
+MST-11614,40,22,27347.35,0,0,🏆 Şampiyonlar (Champions)
+MST-11615,354,24,34397.26,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11616,40,19,3416.0,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11617,347,37,54626.94,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11618,237,39,10384.86,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11619,289,21,26237.87,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11620,262,8,4227.62,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11621,216,28,9196.39,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11622,147,5,3719.03,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11623,336,17,17328.8,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11624,168,37,24578.54,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11625,92,36,8051.88,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11626,353,19,18226.18,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11627,59,27,36942.6,9,0,🏆 Şampiyonlar (Champions)
+MST-11628,59,34,22689.59,5,0,🏆 Şampiyonlar (Champions)
+MST-11629,304,11,4862.54,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11630,169,45,33636.57,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11631,269,47,10118.61,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11632,363,12,15091.9,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11633,45,21,26576.76,9,0,🏆 Şampiyonlar (Champions)
+MST-11634,345,11,10381.81,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11635,181,39,24440.87,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11636,170,28,34431.81,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11637,356,5,4494.14,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11638,191,17,21505.15,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11639,155,20,20049.39,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11640,188,41,49566.84,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11641,7,46,44070.76,4,0,🏆 Şampiyonlar (Champions)
+MST-11642,133,12,8509.09,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11643,235,6,8659.36,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11644,45,17,14968.56,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11645,314,19,18370.55,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11646,249,26,11639.12,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11647,31,48,47742.17,1,0,🏆 Şampiyonlar (Champions)
+MST-11648,23,44,40553.49,7,0,🏆 Şampiyonlar (Champions)
+MST-11649,160,44,17579.4,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11650,363,32,7374.16,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11651,158,6,5795.31,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11652,39,36,42515.44,2,0,🏆 Şampiyonlar (Champions)
+MST-11653,82,38,32550.49,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11654,356,11,5017.57,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11655,258,33,34643.55,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11656,206,24,6195.43,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11657,77,23,17168.94,8,1,💎 Sadık Müşteriler (Loyal)
+MST-11658,12,15,5558.18,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11659,295,27,10773.53,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11660,224,11,4654.07,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11661,13,17,11424.93,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11662,46,14,3066.74,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11663,155,27,18549.57,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11664,113,18,15134.49,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11665,233,28,22468.52,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11666,17,47,31337.65,4,0,🏆 Şampiyonlar (Champions)
+MST-11667,360,47,60293.85,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11668,223,4,1384.76,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11669,354,7,5828.83,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11670,188,45,10519.02,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11671,344,35,8612.11,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11672,163,48,44386.51,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11673,326,9,8227.12,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11674,74,8,10682.76,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11675,233,45,40640.83,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11676,224,17,24577.2,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11677,319,17,3667.55,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11678,60,49,13833.21,2,0,🏆 Şampiyonlar (Champions)
+MST-11679,335,33,6913.13,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11680,222,32,12803.96,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11681,37,8,7045.72,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11682,278,19,19408.93,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11683,196,38,8038.52,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11684,352,3,4281.18,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11685,242,5,6434.62,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11686,324,13,7155.55,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11687,219,47,11947.55,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11688,192,46,17449.99,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11689,17,31,9962.62,1,0,🏆 Şampiyonlar (Champions)
+MST-11690,12,16,5062.93,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11691,193,32,27201.86,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11692,22,22,10601.67,8,0,🏆 Şampiyonlar (Champions)
+MST-11693,120,29,18371.17,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11694,210,22,32688.31,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11695,306,43,46174.44,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11696,270,3,4293.37,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11697,192,10,3424.51,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11698,175,42,27967.31,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11699,285,21,18876.65,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11700,204,16,4057.97,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11701,164,12,1867.84,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11702,251,2,2110.17,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11703,227,41,41674.71,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11704,7,24,16909.56,1,0,🏆 Şampiyonlar (Champions)
+MST-11705,29,35,28385.68,3,0,🏆 Şampiyonlar (Champions)
+MST-11706,33,30,21325.44,1,0,🏆 Şampiyonlar (Champions)
+MST-11707,134,30,5472.2,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11708,79,47,28329.33,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11709,58,35,13617.14,6,0,🏆 Şampiyonlar (Champions)
+MST-11710,26,19,5374.58,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11711,226,8,11532.58,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11712,285,26,24937.53,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11713,4,49,55550.61,7,0,🏆 Şampiyonlar (Champions)
+MST-11714,99,40,23029.64,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11715,39,7,4765.24,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11716,271,30,14095.42,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11717,285,7,1966.33,1,0,💤 Uykuya Dalanlar (Hibernating)
+MST-11718,157,3,1175.08,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11719,75,1,1226.64,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11720,288,36,38328.73,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11721,130,25,22208.85,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11722,175,37,29280.74,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11723,84,1,1395.29,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11724,22,15,3722.88,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11725,27,37,19566.01,1,0,🏆 Şampiyonlar (Champions)
+MST-11726,195,13,8091.41,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11727,337,40,48250.99,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11728,236,8,11919.16,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11729,92,5,2374.53,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11730,21,9,11972.83,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11731,303,1,1271.34,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11732,357,36,16318.35,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11733,84,35,24118.46,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11734,262,2,1406.12,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11735,147,40,58823.92,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11736,257,23,9066.69,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11737,58,9,11059.77,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11738,15,34,20439.45,0,0,🏆 Şampiyonlar (Champions)
+MST-11739,162,46,52287.05,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11740,163,14,10038.21,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11741,320,4,3723.14,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11742,281,30,38220.78,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11743,280,31,38304.33,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11744,12,38,50147.51,8,0,🏆 Şampiyonlar (Champions)
+MST-11745,274,11,2535.32,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11746,271,35,37949.39,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11747,208,8,2711.86,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11748,27,3,2134.07,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11749,72,14,12468.32,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11750,60,13,9018.08,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11751,145,45,38316.41,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11752,93,32,47849.94,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11753,309,34,11306.47,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11754,8,45,47783.95,0,0,🏆 Şampiyonlar (Champions)
+MST-11755,79,19,13007.42,6,0,💎 Sadık Müşteriler (Loyal)
+MST-11756,27,38,12523.4,7,0,🏆 Şampiyonlar (Champions)
+MST-11757,174,16,5828.71,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11758,50,2,2863.04,8,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11759,199,40,53498.48,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11760,349,17,23366.61,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11761,181,34,50611.35,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11762,24,42,18111.48,2,0,🏆 Şampiyonlar (Champions)
+MST-11763,316,16,10077.49,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11764,46,38,40030.94,2,0,🏆 Şampiyonlar (Champions)
+MST-11765,15,2,1606.27,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11766,153,2,1429.65,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11767,222,26,16459.17,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11768,206,13,12370.85,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11769,273,47,43571.4,8,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11770,236,31,11407.01,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11771,340,34,26752.86,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11772,228,39,34990.29,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11773,9,3,2759.66,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11774,166,8,3469.16,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11775,319,23,26497.53,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11776,214,14,2576.26,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11777,117,27,16983.62,6,1,💎 Sadık Müşteriler (Loyal)
+MST-11778,344,29,34895.33,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11779,72,39,35538.96,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11780,64,39,19600.2,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11781,205,1,1088.19,2,0,💤 Uykuya Dalanlar (Hibernating)
+MST-11782,209,17,15571.62,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11783,72,41,50222.08,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11784,277,30,34268.52,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11785,274,13,12657.39,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11786,320,21,16989.84,0,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11787,338,19,6266.12,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11788,95,19,9553.19,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11789,166,25,17894.61,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11790,32,22,21099.19,3,0,🏆 Şampiyonlar (Champions)
+MST-11791,11,31,26148.67,8,0,🏆 Şampiyonlar (Champions)
+MST-11792,301,17,9163.83,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11793,217,23,3650.72,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11794,289,32,26237.53,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11795,102,10,5355.95,5,1,💎 Sadık Müşteriler (Loyal)
+MST-11796,267,10,11417.21,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11797,214,36,6563.79,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11798,179,8,7516.14,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11799,88,20,28419.8,6,1,💎 Sadık Müşteriler (Loyal)
+MST-11800,41,32,12334.48,0,0,🏆 Şampiyonlar (Champions)
+MST-11801,76,14,11014.18,6,1,💎 Sadık Müşteriler (Loyal)
+MST-11802,46,28,7655.75,0,0,🏆 Şampiyonlar (Champions)
+MST-11803,160,46,45754.85,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11804,80,24,21437.23,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11805,310,15,10499.15,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11806,86,22,18784.9,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11807,92,30,40811.27,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11808,148,4,1659.99,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11809,161,13,2346.01,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11810,202,23,30204.69,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11811,242,8,7432.86,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11812,353,18,24343.0,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11813,2,12,11470.51,9,1,💎 Sadık Müşteriler (Loyal)
+MST-11814,225,31,38555.24,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11815,289,14,10220.83,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11816,233,34,39518.57,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11817,77,18,24886.91,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11818,116,34,31360.44,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11819,154,11,4334.66,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11820,103,41,21027.95,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11821,194,12,5018.04,3,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11822,166,49,23679.59,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11823,359,15,8454.91,1,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11824,90,31,27882.35,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11825,174,49,46245.65,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11826,122,29,21047.47,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11827,143,26,25501.27,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11828,106,18,4682.27,7,0,💎 Sadık Müşteriler (Loyal)
+MST-11829,305,32,8592.45,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11830,360,22,8403.33,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11831,317,38,32277.38,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11832,123,17,7461.18,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11833,9,23,12245.98,2,0,🏆 Şampiyonlar (Champions)
+MST-11834,262,24,16570.14,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11835,73,8,9968.15,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11836,359,41,6917.27,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11837,223,6,6159.97,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11838,41,5,5264.92,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11839,204,44,54040.15,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11840,264,29,40867.28,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11841,328,28,4961.21,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11842,178,11,3933.69,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11843,348,1,1346.33,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11844,318,43,33067.0,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11845,84,19,17331.75,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11846,318,9,9405.78,3,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11847,111,27,28801.98,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11848,251,34,47866.88,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11849,7,44,65818.8,5,0,🏆 Şampiyonlar (Champions)
+MST-11850,84,4,4488.85,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11851,208,36,19358.95,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11852,314,18,24077.98,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11853,22,15,3246.72,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11854,3,13,6005.47,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11855,127,19,25867.94,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11856,297,49,24297.07,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11857,188,6,2687.27,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11858,362,48,16150.52,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11859,14,12,15717.61,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11860,12,37,30527.91,6,0,🏆 Şampiyonlar (Champions)
+MST-11861,87,17,18038.8,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11862,12,23,10873.01,5,0,🏆 Şampiyonlar (Champions)
+MST-11863,25,26,30507.22,9,0,🏆 Şampiyonlar (Champions)
+MST-11864,301,29,34104.22,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11865,243,33,18876.24,8,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11866,122,27,19019.38,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11867,147,25,10827.05,2,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11868,55,10,14683.57,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11869,238,47,48013.48,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11870,356,23,32467.59,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11871,173,21,11750.98,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11872,221,21,25316.61,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11873,119,43,50908.09,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11874,309,13,14088.56,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11875,183,37,53783.67,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11876,288,33,22482.89,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11877,307,24,7835.24,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11878,300,44,46499.51,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11879,82,11,12480.25,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11880,211,17,15747.64,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11881,150,4,1716.82,4,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11882,37,47,39057.73,3,0,🏆 Şampiyonlar (Champions)
+MST-11883,352,25,14286.4,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11884,312,30,21812.39,8,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11885,361,9,9189.41,8,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11886,59,21,24276.84,2,0,🏆 Şampiyonlar (Champions)
+MST-11887,131,20,9270.07,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11888,202,19,13246.6,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11889,243,19,9753.99,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11890,35,12,5017.83,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11891,93,37,44680.19,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11892,207,42,57854.63,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11893,353,17,11046.83,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11894,332,37,43076.38,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11895,305,48,65325.29,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11896,350,39,50398.44,0,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11897,213,28,11110.35,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11898,159,41,59080.76,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11899,24,35,23047.96,5,0,🏆 Şampiyonlar (Champions)
+MST-11900,293,47,28574.82,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11901,4,48,11245.55,3,0,🏆 Şampiyonlar (Champions)
+MST-11902,220,18,14514.02,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11903,364,14,4160.36,1,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11904,20,35,16993.51,6,0,🏆 Şampiyonlar (Champions)
+MST-11905,152,44,25426.39,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11906,50,41,50918.54,6,0,🏆 Şampiyonlar (Champions)
+MST-11907,177,7,9323.37,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11908,96,41,22891.51,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11909,105,13,17020.15,2,0,💎 Sadık Müşteriler (Loyal)
+MST-11910,250,18,23530.71,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11911,117,37,43744.31,5,0,💎 Sadık Müşteriler (Loyal)
+MST-11912,354,13,4524.5,1,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11913,228,36,38949.69,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11914,66,31,44199.26,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11915,335,2,2142.86,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11916,262,16,9562.92,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11917,295,9,7432.04,5,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11918,243,9,9195.56,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11919,186,38,31892.26,7,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11920,246,11,3431.3,5,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11921,125,22,12568.3,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11922,268,33,40696.74,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11923,131,36,47264.92,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11924,237,45,15090.98,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11925,18,23,33021.61,8,0,🏆 Şampiyonlar (Champions)
+MST-11926,40,45,26725.97,7,0,🏆 Şampiyonlar (Champions)
+MST-11927,21,45,46985.56,6,0,🏆 Şampiyonlar (Champions)
+MST-11928,225,34,39608.77,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11929,355,9,11215.15,4,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11930,282,24,34242.29,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11931,8,8,4579.53,5,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11932,100,7,9162.89,9,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11933,240,36,11799.98,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11934,87,18,19832.49,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11935,298,3,3455.01,9,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11936,14,28,29817.94,1,0,🏆 Şampiyonlar (Champions)
+MST-11937,334,6,2943.75,1,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11938,2,44,58458.76,7,0,🏆 Şampiyonlar (Champions)
+MST-11939,293,44,16630.19,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11940,325,21,4670.55,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11941,41,28,31320.18,5,0,🏆 Şampiyonlar (Champions)
+MST-11942,318,40,31675.69,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11943,316,1,1296.28,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11944,111,36,24033.1,3,0,💎 Sadık Müşteriler (Loyal)
+MST-11945,14,21,7920.7,3,0,🏆 Şampiyonlar (Champions)
+MST-11946,231,43,55005.47,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11947,84,35,31185.98,0,0,💎 Sadık Müşteriler (Loyal)
+MST-11948,130,13,5270.39,0,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11949,231,49,55003.4,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11950,326,10,8400.03,7,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11951,145,44,42496.19,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11952,345,47,36294.0,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11953,28,10,12687.57,8,1,💎 Sadık Müşteriler (Loyal)
+MST-11954,66,46,58415.84,4,0,💎 Sadık Müşteriler (Loyal)
+MST-11955,163,13,14399.77,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11956,229,37,10814.8,6,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11957,261,38,48733.2,7,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11958,164,24,25340.82,6,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11959,301,2,2181.97,6,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11960,303,22,14080.59,4,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11961,287,17,22729.47,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11962,10,36,40653.06,5,0,🏆 Şampiyonlar (Champions)
+MST-11963,195,14,4227.96,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11964,118,10,7005.0,9,1,💎 Sadık Müşteriler (Loyal)
+MST-11965,270,35,47131.47,1,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11966,80,25,5342.89,8,0,💎 Sadık Müşteriler (Loyal)
+MST-11967,93,3,4343.74,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11968,266,47,50142.86,5,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11969,332,38,38089.59,4,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11970,350,17,8759.33,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11971,361,12,5830.43,9,1,🌱 Potansiyel / Yeni Müşteriler
+MST-11972,257,24,34122.69,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11973,133,29,16027.37,3,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11974,276,43,51468.08,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11975,264,25,17017.86,7,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11976,171,36,12167.75,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11977,1,26,4276.11,6,0,🏆 Şampiyonlar (Champions)
+MST-11978,313,38,33620.4,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11979,64,1,1467.3,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11980,284,20,12966.68,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11981,121,28,17701.87,1,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11982,107,16,9832.38,9,0,💎 Sadık Müşteriler (Loyal)
+MST-11983,175,47,40078.51,2,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11984,204,17,12663.26,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11985,165,40,53515.39,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11986,305,28,23308.69,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11987,120,12,10025.68,1,0,💎 Sadık Müşteriler (Loyal)
+MST-11988,44,27,9093.64,8,0,🏆 Şampiyonlar (Champions)
+MST-11989,312,42,62021.33,9,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11990,156,47,22910.78,8,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11991,207,30,7471.24,3,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11992,108,41,42855.14,8,1,💎 Sadık Müşteriler (Loyal)
+MST-11993,251,34,32427.32,2,0,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11994,334,37,26286.53,6,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11995,130,6,4319.76,6,0,🌱 Potansiyel / Yeni Müşteriler
+MST-11996,293,7,8468.85,7,1,💤 Uykuya Dalanlar (Hibernating)
+MST-11997,20,32,13254.79,9,0,🏆 Şampiyonlar (Champions)
+MST-11998,282,32,40234.94,3,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
+MST-11999,285,25,25645.22,2,1,⚠️ Kaybedilmemesi Gerekenler (Cant Lose)
